@@ -1,0 +1,9 @@
+<svg width="45" height="45" viewBox="0 0 45 45" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="animation">
+<g id="Vector 1">
+<path d="M0 0V45L45 0H0Z" fill="#FF3D6A"/>
+<path d="M45 0L0 45H45V0Z" fill="#FF3D6A"/>
+</g>
+<path id="Vector 2" d="M45 0L0 45H45V0Z" fill="white"/>
+</g>
+</svg>
